@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi!, I'm Arun, currently doing my Ph.D. studies under the supervision of [Dr. Paul Rad](https://secureaiautonomylab.github.io/) and work as an applied AI research fellow at Secure AI and Autonomy Laboratory and [Open Cloud Institute](https://opencloud.utsa.edu/). My primary research focus is in building explainable AI (XAI) algorithms for human behavior research.
+Hi!, I'm Arun, currently doing my Ph.D. studies under the supervision of [Dr. Paul Rad](https://secureaiautonomylab.github.io/) at [University of Texas at San Antonio](https://www.utsa.edu/) and working as an applied AI research fellow at Secure AI and Autonomy Laboratory and [Open Cloud Institute](https://opencloud.utsa.edu/). My primary research focus is in building explainable AI (XAI) algorithms for human behavior research.
 
 My Work and Research
 ======
